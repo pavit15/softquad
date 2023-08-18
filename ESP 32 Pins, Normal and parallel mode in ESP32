@@ -1,0 +1,17 @@
+ESP 32 Pins:
+34-39: input only (GPI)
+6-11: exposed on the board, are connected to SPI flash (SPI flash: contains functions related to reading, writing, erasing, etc for external flash)
+T0-T9: each corresponds to a GPIO. These are capacitive touch GPIOs and can detect human touch or electric charge fluctuations and can be used to wake the ESP32 from sleep
+18 Analog to digital converter input channels
+2 digital to analog output channels
+Rtc gpios: used when the esp32 is in deep sleep. Used as an external wake up source
+PWM pins: all pins that can act as output can be used as pwm pins. We’ve to define parameters such as signal frequency, pwm channel, gpio where we want the output for it.
+It generates analog like signals using digital signals.
+I2C: two channels which can be set up as SDA or SCL. SDA carries actual data btwn devices and SCL synchronizes it
+
+
+Normal and parallel mode: 
+Normal mode has only one core active and other is in low power state
+Parallel mode: both cores active and can be used simultaneously, easier to multitask, faster
+
+
