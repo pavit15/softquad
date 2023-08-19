@@ -1,7 +1,0 @@
-In directory with all the files (home directory)
-get_idf
-
-Enter the directory of the files and run: 
-idf.py build
-sudo chmod 777 /dev/ttyUSB0
-idf.py -p/dev/ttyUSB0 flash monitor
