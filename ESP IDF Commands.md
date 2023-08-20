@@ -1,3 +1,4 @@
+# ESP IDF Commands
 1. get_idf:  command used to set up the environment variables which activates the other esp idf commands (used in Linux/MacOS)
 2. dmesg | grep tty: command used to check which port is connected to esp32
 3. idf.py set-target esp32: command will add necessary files required for building code of specific device here esp32
