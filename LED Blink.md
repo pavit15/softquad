@@ -8,6 +8,7 @@ To blink all LEDs: 1111 1111
 and then 0000 0000 to get blinking effect
 
 **Hexadecimal:**
+
 0 to 16 digits
 0-9 and then 10,11,12,13,14,15 as A,B,C,D,E,F
 
