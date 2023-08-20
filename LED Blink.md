@@ -13,20 +13,25 @@ and then 0000 0000 to get blinking effect
 0-9 and then 10,11,12,13,14,15 as A,B,C,D,E,F
 
 **Hexadecimal to Decimal**
+
 starting from right, each digit is multiplied by 16^n where n is the digit starting from 0
 
 **Decimal to Hexadecimal**
+
 number is divided by 16 and remainder is written. continue until quotient becomes 0
 read remainder from bottom to top
 
 **Decimal to Binary**
+
 divide it by 2. and write the remainder as 0 or 1
 write the final number, starting from bottom
 
 **Binary to Decimal**
+
 starting from right, each digit is multiplied by 2^n where n is the digit starting from 0
 
 **Binary to Hexadecimal**
+
 Starting from right, make groups of 4 digits 
 and this table for conversion
 ![](https://hackmd.io/_uploads/HktSDd16n.png)
@@ -60,6 +65,7 @@ var becomes: 0000 0000
 thus we also add an if condt and it converts var to 0000 0001 in that case
          
 **Code**
+
 Top line has header files
 freertos: real time operating system
  ESP ERROR CHECK: checks if all GPIO pins are turned on properly
