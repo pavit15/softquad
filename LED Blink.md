@@ -67,11 +67,7 @@ freertos: real time operating system
  
  task delay: pauses the task for the number of ticks
  
- What LEDs did we use in the lec?
- 
-          
-          
-          
+     
 
           
                                                   
