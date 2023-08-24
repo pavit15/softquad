@@ -1,5 +1,5 @@
 ## Signals:
-![[Signals.jpg]]
+![](assets/PWM/Signals.png)
 1. Analog Signals: Signals are simply wave of any shapeand have any range of value. The values are continously varying.
 2. Digital Signals: Its is a Square wave.The values is either MInimum or Maximum
 
@@ -13,4 +13,4 @@
 ## ESP32 MCPWM:
 - LED needs faster response so the PWM used has Faster Response and Low Resolution(8bit), whereas Motor Control needs a high resolution response, So MCPWM has a bit slower response and provides high resolution(16 bit) the values are in range 0 to 65535(2^16)
 - In ESP32 there are 2 units of MCPWM whereeach has 3 pair of output to control different types of Motor
-![[MCPWM.jpg]]
+![](assets/PWM/MCPWM.png)
