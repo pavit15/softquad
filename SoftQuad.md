@@ -28,6 +28,7 @@
   - Flexible PCB designed for weight reduction and flexibility is, made from polyimide sheets laminated with copper used for soft body.
   - Main components include Arduino Pro Micro, L293DD H-Bridge motor drivers, capacitors for voltage stability, switch, and step-up regulator.
   - Standard FR4 PCB used for the hard body.
+
 ![](https://hackmd.io/_uploads/BJex1ySp3.png)
 
 4. **Motor Connector Design**:
@@ -42,6 +43,7 @@
         - Second part holds leg using set screw.
 - Enables easy part replacement without damaging legs.
 - Supports testing various leg types without changing motors.
+
 ![](https://hackmd.io/_uploads/H1jBJJBp2.png)
 
 ### Fabrication:
