@@ -1,4 +1,4 @@
-![[ESP32.jpg]]
+![](assets/ESP32/ESP32.png)
 # ESP32
 ESP32 is a microcontoller module developed by Espressif Systems 
 1. **Dual-Core Processor**: The ESP32 features two Xtensa 32-bit LX6 CPU cores, which allows parallel processing and improved performance in multitasking applications.
