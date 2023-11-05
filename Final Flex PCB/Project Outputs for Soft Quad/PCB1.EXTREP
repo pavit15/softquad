@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB1.GBR   29-10-2023  12:03:02
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Board Layer Stack Top Coverlay          
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Coverlay       
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top Component Center                    
+.GM11               Top Component Outline                   
+.GM12               Bottom Component Outline                
+.GM13               Top Assembly                            
+.GM14               Bottom Assembly                         
+.GM15               Top Courtyard                           
+.GM16               Bottom Courtyard                        
+.GM17               Top 3D Body                             
+.GM18               Bottom 3D Body                          
+.GM19               Top Designator                          
+.GM20               Bottom Designator                       
+.GM24               Bottom Component Center                 
+.GCT2               Board Layer Stack Top Coverlay (Stack1) 
+.GCB2               Board Layer Stack Bottom Coverlay (Stack1)
+.GCT1               Board Layer Stack Top Coverlay (Board Layer Stack)
+.GCB1               Board Layer Stack Bottom Coverlay (Board Layer Stack)
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GML                Multi-Layer                             
+.4                  Adhesive 1                              
+.1                  Stiffener 1                             
+.2                  Adhesive 2                              
+.5                  Stiffener 2                             
+.3                  Dielectric 2                            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
