@@ -1,0 +1,193 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1005X56X25LL10T15 New Footprint=CAPC2013X95X50LL10T25
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1005X56X25LL10T15 New Footprint=CAPC2013X95X50LL10T25
+Change Component Footprint: Designator=L1 Old Footprint=WE-TPC_4818 New Footprint=WE-TPC_4818
+Change Component Comment : Designator=C2 Old Comment=Capacitor 0.1 uF +/- 5% 16 V 0402 New Comment=Capacitor 100 nF +/-10% 50 V 0805
+Change Component Comment : Designator=C4 Old Comment=Capacitor 0.1 uF +/- 5% 16 V 0402 New Comment=Capacitor 100 nF +/-10% 50 V 0805
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=C9999D6E-5DDC-4A9A-898A-0681B8971074 Old RevisionGUID= New RevisionGUID=C79D8B3A-0FE6-4ECC-9120-0D7CD461992A
+Change Managed Component Library Link : Designator=C2 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=1FC321A5-13CF-44F2-A1BF-B63B63F1BDD8 Old RevisionGUID= New RevisionGUID=D0383DAA-B845-418E-A359-E352F0121545
+Change Managed Component Library Link : Designator=C3 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=13B3B0E8-2A9A-463F-8A17-2425B57B8297 Old RevisionGUID= New RevisionGUID=E9C7AF5A-28D7-45D6-BF1F-AD1AEB8121CD
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=1FC321A5-13CF-44F2-A1BF-B63B63F1BDD8 Old RevisionGUID= New RevisionGUID=D0383DAA-B845-418E-A359-E352F0121545
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=65C985DF-9979-4B54-9569-B4C87B14282F Old RevisionGUID= New RevisionGUID=091E9D77-0F3F-47C4-A3BE-BF543A3D3B25
+Change Managed Component Library Link : Designator=C6 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=65C985DF-9979-4B54-9569-B4C87B14282F Old RevisionGUID= New RevisionGUID=091E9D77-0F3F-47C4-A3BE-BF543A3D3B25
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 Old RevisionGUID= New RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A2224CE-E6A1-4697-97B0-BA74C68A54A9 Old RevisionGUID= New RevisionGUID=20C6CDE6-55B0-408A-A534-FBF9D64DEC67
+Change Managed Component Library Link : Designator=J2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A2224CE-E6A1-4697-97B0-BA74C68A54A9 Old RevisionGUID= New RevisionGUID=20C6CDE6-55B0-408A-A534-FBF9D64DEC67
+Change Managed Component Library Link : Designator=J3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A2224CE-E6A1-4697-97B0-BA74C68A54A9 Old RevisionGUID= New RevisionGUID=20C6CDE6-55B0-408A-A534-FBF9D64DEC67
+Change Managed Component Library Link : Designator=J4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A2224CE-E6A1-4697-97B0-BA74C68A54A9 Old RevisionGUID= New RevisionGUID=20C6CDE6-55B0-408A-A534-FBF9D64DEC67
+Change Managed Component Library Link : Designator=J5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A2224CE-E6A1-4697-97B0-BA74C68A54A9 Old RevisionGUID= New RevisionGUID=20C6CDE6-55B0-408A-A534-FBF9D64DEC67
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A896D25-BDAC-45F3-9A2E-FEEF12B68EE9 Old RevisionGUID= New RevisionGUID=CB029B5D-2FA4-47D0-8376-0A6603AA2EED
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R3 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R4 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R5 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R6 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R7 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R8 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R9 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R10 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R11 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R12 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R-6V Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0355BF38-E525-4E0D-B668-9227C1D07343 Old RevisionGUID= New RevisionGUID=EF6B2974-FECE-4F4C-931D-569FBD58B6EE
+Change Managed Component Library Link : Designator=R-var Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=0988DE3B-7F4A-4A9D-A7D7-D7625F63D648 Old RevisionGUID= New RevisionGUID=7F9CDE61-7184-40EB-8274-EE5558FE4646
+Change Managed Component Library Link : Designator=U1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2C3B500F-C084-4E46-9786-68E6A47C7D95 Old RevisionGUID= New RevisionGUID=4D1928FE-89A7-4A50-B47C-4DD30A0C1BE7
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2C3B500F-C084-4E46-9786-68E6A47C7D95 Old RevisionGUID= New RevisionGUID=4D1928FE-89A7-4A50-B47C-4DD30A0C1BE7
+Change Managed Component Library Link : Designator=VR1 Old VaultGUID= New VaultGUID=1AC16923-47F6-4704-BD6F-8956290262F8 Old ItemGUID= New ItemGUID=8D8AC7E9-B0B2-4982-BB78-3D07CC6783A4 Old RevisionGUID= New RevisionGUID=64F5466A-F1C1-4AB5-BA24-F315FC69F923
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC1005X56X25LL10T15"; UniqueID = "\ZDWQJXXI" ("\ZDWQJXXI")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC1005X56X25LL10T15"; UniqueID = "\NTUSKEPY" ("\NTUSKEPY")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TE_4-644456-9
+Add Component: Footprint Not Found TE_4-644456-9
+Added Component: Designator=U4(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Monolithic Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D-F/Espressif%20Systems/view-part/4220172/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin JE1-6
+Add Pin To Net: Unknown Pin: Pin JE1-8
+Add Pin To Net: Unknown Pin: Pin JE1-9
+Add Pin To Net: Unknown Pin: Pin JE1-10
+Add Pin To Net: Unknown Pin: Pin JE1-11
+Add Pin To Net: Unknown Pin: Pin JE1-12
+Add Pin To Net: Unknown Pin: Pin JE1-13
+Add Pin To Net: Unknown Pin: Pin JE1-19
+Add Pin To Net: Unknown Pin: Pin JE2-1
+Add Pin To Net: Unknown Pin: Pin JE2-7
+Add Pin To Net: Unknown Pin: Pin JE2-8
+Add Pin To Net: Unknown Pin: Pin JE2-9
+Add Pin To Net: Unknown Pin: Pin JE2-10
+Add Pin To Net: Unknown Pin: Pin JE2-11
+Add Pin To Net: Unknown Pin: Pin JE2-12
+Add Pin To Net: Unknown Pin: Pin JE2-13
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=+6 Pin=U4-3
+Added Pin To Net: NetName=3V3 Pin=U-1
+Added Pin To Net: NetName=32 Pin=U-7
+Added Pin To Net: NetName=33 Pin=U-8
+Added Pin To Net: NetName=25 Pin=U-9
+Added Pin To Net: NetName=26 Pin=U-10
+Added Pin To Net: NetName=27 Pin=U-11
+Added Pin To Net: NetName=14 Pin=U-12
+Added Pin To Net: NetName=GND Pin=U-14
+Added Pin To Net: NetName=4 Pin=U-26
+Added Pin To Net: NetName=16 Pin=U-27
+Added Pin To Net: NetName=17 Pin=U-28
+Added Pin To Net: NetName=5 Pin=U-29
+Added Pin To Net: NetName=18 Pin=U-30
+Added Pin To Net: NetName=19 Pin=U-31
+Added Pin To Net: NetName=GND Pin=U-32
+Added Pin To Net: NetName=GND Pin=U-38
+Added Pin To Net: NetName=NetJE1_1 Pin=U-19
+Added Net: Name=NetJE1_1
+Added Pin To Net: NetName=NetJE1_2 Pin=U-18
+Added Net: Name=NetJE1_2
+Added Pin To Net: NetName=NetJE1_3 Pin=U-17
+Added Net: Name=NetJE1_3
+Added Pin To Net: NetName=NetJE1_4 Pin=U-16
+Added Net: Name=NetJE1_4
+Added Pin To Net: NetName=NetJE1_5 Pin=U-15
+Added Net: Name=NetJE1_5
+Added Pin To Net: NetName=NetJE1_7 Pin=U-13
+Added Net: Name=NetJE1_7
+Added Pin To Net: NetName=NetJE1_14 Pin=U-6
+Added Net: Name=NetJE1_14
+Added Pin To Net: NetName=NetJE1_15 Pin=U-5
+Added Net: Name=NetJE1_15
+Added Pin To Net: NetName=NetJE1_16 Pin=U-4
+Added Net: Name=NetJE1_16
+Added Pin To Net: NetName=NetJE1_17 Pin=U-3
+Added Net: Name=NetJE1_17
+Added Pin To Net: NetName=NetJE1_18 Pin=U-2
+Added Net: Name=NetJE1_18
+Added Pin To Net: NetName=NetJE2_2 Pin=U-37
+Added Net: Name=NetJE2_2
+Added Pin To Net: NetName=NetJE2_3 Pin=U-36
+Added Net: Name=NetJE2_3
+Added Pin To Net: NetName=NetJE2_4 Pin=U-35
+Added Net: Name=NetJE2_4
+Added Pin To Net: NetName=NetJE2_5 Pin=U-34
+Added Net: Name=NetJE2_5
+Added Pin To Net: NetName=NetJE2_6 Pin=U-33
+Added Net: Name=NetJE2_6
+Added Pin To Net: NetName=NetJE2_14 Pin=U-25
+Added Net: Name=NetJE2_14
+Added Pin To Net: NetName=NetJE2_15 Pin=U-24
+Added Net: Name=NetJE2_15
+Added Pin To Net: NetName=NetJE2_16 Pin=U-23
+Added Net: Name=NetJE2_16
+Added Pin To Net: NetName=NetJE2_17 Pin=U-22
+Added Net: Name=NetJE2_17
+Added Pin To Net: NetName=NetJE2_18 Pin=U-21
+Added Net: Name=NetJE2_18
+Added Pin To Net: NetName=NetJE2_19 Pin=U-20
+Added Net: Name=NetJE2_19
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C1 Capacitor 10µF +/-20% 10V 0603
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C2 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C3 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C4 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C5 TPSD227K010R0150
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C6 TPSD227K010R0150
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component D1 SS34
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component J1 1714955
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component J2 1714955
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component J3 1714955
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component J4 1714955
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component J5 1714955
+Add Class Member: Failed to add class member : Component JE1 4-644456-9
+Add Class Member: Failed to add class member : Component JE2 4-644456-9
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component L1 330uH
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R1 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R2 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R3 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R4 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R5 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R6 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R7 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R8 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R9 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R10 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R11 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R12 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R-6V Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R-var TC33X-2-103E
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U1 L293D
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U2 L293D
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U4 AMS1117-3.3
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U ESP32-DEVKITC
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component VR1 XL6009
