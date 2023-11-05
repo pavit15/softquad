@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=Rpot NewDesignator=R-var
+Added Component: Designator=J3(PHOE-1714955_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1714955.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "PC Terminal Block, Pitch 6.35 mm, 1 x 2 Position, Height 21.5 mm, Tail Lenght 5.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1714955"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TE_4-644456-9
+Add Component: Footprint Not Found TE_4-644456-9
+Added Pin To Net: NetName=OUT3A Pin=J3-1
+Added Pin To Net: NetName=OUT3B Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin JE1-1
+Add Pin To Net: Unknown Pin: Pin JE1-2
+Add Pin To Net: Unknown Pin: Pin JE1-3
+Add Pin To Net: Unknown Pin: Pin JE1-4
+Add Pin To Net: Unknown Pin: Pin JE1-5
+Add Pin To Net: Unknown Pin: Pin JE1-6
+Add Pin To Net: Unknown Pin: Pin JE1-7
+Add Pin To Net: Unknown Pin: Pin JE1-8
+Add Pin To Net: Unknown Pin: Pin JE1-9
+Add Pin To Net: Unknown Pin: Pin JE1-10
+Add Pin To Net: Unknown Pin: Pin JE1-11
+Add Pin To Net: Unknown Pin: Pin JE1-12
+Add Pin To Net: Unknown Pin: Pin JE1-13
+Add Pin To Net: Unknown Pin: Pin JE1-14
+Add Pin To Net: Unknown Pin: Pin JE1-15
+Add Pin To Net: Unknown Pin: Pin JE1-16
+Add Pin To Net: Unknown Pin: Pin JE1-17
+Add Pin To Net: Unknown Pin: Pin JE1-18
+Add Pin To Net: Unknown Pin: Pin JE1-19
+Add Pin To Net: Unknown Pin: Pin JE2-1
+Add Pin To Net: Unknown Pin: Pin JE2-2
+Add Pin To Net: Unknown Pin: Pin JE2-3
+Add Pin To Net: Unknown Pin: Pin JE2-4
+Add Pin To Net: Unknown Pin: Pin JE2-5
+Add Pin To Net: Unknown Pin: Pin JE2-6
+Add Pin To Net: Unknown Pin: Pin JE2-7
+Add Pin To Net: Unknown Pin: Pin JE2-8
+Add Pin To Net: Unknown Pin: Pin JE2-9
+Add Pin To Net: Unknown Pin: Pin JE2-10
+Add Pin To Net: Unknown Pin: Pin JE2-11
+Add Pin To Net: Unknown Pin: Pin JE2-12
+Add Pin To Net: Unknown Pin: Pin JE2-13
+Add Pin To Net: Unknown Pin: Pin JE2-14
+Add Pin To Net: Unknown Pin: Pin JE2-15
+Add Pin To Net: Unknown Pin: Pin JE2-16
+Add Pin To Net: Unknown Pin: Pin JE2-17
+Add Pin To Net: Unknown Pin: Pin JE2-18
+Add Pin To Net: Unknown Pin: Pin JE2-19
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C1 Capacitor 10µF +/-20% 10V 0603
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C2 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C3 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C4 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C5 TPSD227K010R0150
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component C6 TPSD227K010R0150
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component D1 SS34
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component J3 1714955
+Add Class Member: Failed to add class member : Component JE1 4-644456-9
+Add Class Member: Failed to add class member : Component JE2 4-644456-9
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component L1 330uH
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R1 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R2 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R3 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R4 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R5 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R6 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R7 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R8 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R9 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R10 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R11 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R12 Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R-6V Resistor 1k +/-1% 0603 100 mW
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component R-var TC33X-2-103E
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U ESP32-DEVKITC
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component VR1 XL6009

@@ -1,0 +1,244 @@
+Added Component: Designator=C1(CAPC3216X180X50NL20T25)
+Added Component: Designator=C2(CAPC3216X180X50NL20T25)
+Added Component: Designator=C3(CAPC3216X180X50NL20T25)
+Added Component: Designator=C4(CAPC3216X180X50NL20T25)
+Added Component: Designator=CV2(CAPMP7344X31-T_V)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "2917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/8080/1680477-8080379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 7.3 x 4.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "7343-31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=CV2(CAPMP7344X31-T_V)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "2917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/8080/1680477-8080379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 7.3 x 4.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "7343-31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOM7959X265N
+Add Component: Footprint Not Found SAMTEC_TMS-101-02-G-D-RA
+Add Component: Footprint Not Found SAMTEC_TMS-101-02-G-D-RA
+Added Component: Designator=L1(INDC2013X105X50ML20T20)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://psearch.en.murata.com/inductor/product/LQG15HS15NJ02_.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Nov-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "330Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2 x1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "90mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TE_282837-2
+Add Component: Footprint Not Found TE_282837-2
+Add Component: Footprint Not Found TE_282837-2
+Add Component: Footprint Not Found TE_282837-2
+Add Component: Footprint Not Found TE_282837-2
+Added Component: Designator=R1(RESC1608X55X25ML10T15)
+Added Component: Designator=R2(RESC1608X55X25ML10T15)
+Added Component: Designator=R3(RESC1608X55X25ML10T15)
+Added Component: Designator=R4(RESC1608X55X25ML10T15)
+Added Component: Designator=R5(RESC1608X55X25ML10T15)
+Added Component: Designator=R6(RESC1608X55X25ML10T15)
+Added Component: Designator=R7(RESC1608X55X25ML10T15)
+Added Component: Designator=R8(RESC1608X55X25ML10T15)
+Added Component: Designator=R9(RESC1608X55X25ML10T15)
+Added Component: Designator=R10(RESC1608X55X25ML10T15)
+Added Component: Designator=R11(RESC1608X55X25ML10T15)
+Added Component: Designator=R12(RESC1608X55X25ML10T15)
+Added Component: Designator=RV(RESC1608X55X25ML10T15)
+Add Component: Footprint Not Found SOIC127P1032X265-20N
+Add Component: Footprint Not Found SOIC127P1032X265-20N
+Added Component: Designator=U?(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Monolithic Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D-F/Espressif%20Systems/view-part/4220172/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR1(BOUR-3296W)
+Add component (AddParameter): Name = "Case/Package"; Value = "3296W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/3296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Body 9.53 x 4.83 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3296W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(DPAK170P1435X465-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XL6009/XLSEMI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "XL6009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "XLSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XL6009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5L XLSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XL6009/XLSEMI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "XL6009.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=+3.7V Pin=CV2-1
+Added Pin To Net: NetName=+6V Pin=CV2-1
+Added Pin To Net: NetName=GND Pin=CV2-2
+Added Pin To Net: NetName=GND Pin=CV2-2
+Add Pin To Net: Unknown Pin: Pin DV-A
+Add Pin To Net: Unknown Pin: Pin DV-C
+Added Pin To Net: NetName=+3.7V Pin=L1-1
+Added Pin To Net: NetName=NetDV_A Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin RV-1
+Add Pin To Net: Unknown Pin: Pin RV-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-19
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetC3_1 Pin=U?-2
+Added Pin To Net: NetName=6V Pin=U?-3
+Added Pin To Net: NetName=+6V Pin=VR1-1
+Added Pin To Net: NetName=NetRV_2 Pin=VR1-2
+Added Pin To Net: NetName=NetRV_2 Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=NetDV_A Pin=VR?-3
+Added Pin To Net: NetName=+3.7V Pin=VR?-4
+Added Pin To Net: NetName=NetRV_2 Pin=VR?-5
+Add Class Member: Failed to add class member : Component C1 Capacitor 10 uF +/- 10% 16 V 1206
+Add Class Member: Failed to add class member : Component C2 Capacitor 10 uF +/- 10% 16 V 1206
+Add Class Member: Failed to add class member : Component C3 Capacitor 10 uF +/- 10% 16 V 1206
+Add Class Member: Failed to add class member : Component C4 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component CV2 TPSD227K010R0150
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component CV2 TPSD227K010R0150
+Add Class Member: Failed to add class member : Component DV SS34
+Add Class Member: Failed to add class member : Component J1 TMS-101-02-G-D-RA
+Add Class Member: Failed to add class member : Component J2 TMS-101-02-G-D-RA
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component L1 BLM21PG331SN1D
+Add Class Member: Failed to add class member : Component P1 282837-2
+Add Class Member: Failed to add class member : Component P2 282837-2
+Add Class Member: Failed to add class member : Component P3 282837-2
+Add Class Member: Failed to add class member : Component P4 282837-2
+Add Class Member: Failed to add class member : Component P5 282837-2
+Add Class Member: Failed to add class member : Component R1 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R2 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R3 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R4 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R5 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R6 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R7 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R8 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R9 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R10 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R11 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component R12 Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component RV Resistor 1k +/-1% 0603 100 mW
+Add Class Member: Failed to add class member : Component U1 L293DD
+Add Class Member: Failed to add class member : Component U2 L293DD
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component U ESP32-DEVKITC
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component VR1 3296W-1-103LF
+Added Member To Class: ClassName=Soft Quad Schematic Member=Component VR? XL6009
