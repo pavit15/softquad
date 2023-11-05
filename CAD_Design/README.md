@@ -4,15 +4,18 @@
 
 Rigid Bot Chasis Design
 
+
 ![](assets/RigidLeg.png)
 
 Rigid Leg Chasis Design
+
 
 ![](assets/RigidParts.png)
 
 Other parts used in Bot
 
 ## <ins>Asembly of Bot:
+
 ![](assets/AssemblyMotion.gif)
 
 Motion of Bot Assembly
@@ -21,6 +24,7 @@ Motion of Bot Assembly
 ![](assets/BodyMold.png)
 
 Body Mold
+
 
 ![](assets/LegMold.png)
 
