@@ -1,21 +1,21 @@
 # CAD Design
 ## Rigid Bot PArts:
-![](CAD_Design/assets/RigidChasis.png)
+![](/assets/RigidChasis.png)
 Rigid Bot Chasis Design
 
-![](CAD_Design/assets/RigidLeg.png)
+![](/assets/RigidLeg.png)
 Rigid Leg Chasis Design
 
-![](CAD_Design/assets/RigidParts.png)
+![](/assets/RigidParts.png)
 Other parts used in Bot
 
 ## Asembly of Bot:
-![](CAD_Design/assets/AssemblyMotion.gif)
+![](/assets/AssemblyMotion.gif)
 Motion of Bot Assembly
 
 ## Molds used for Soft Part Fabrication:
-![](CAD_Design/assets/BodyMold.png)
+![](/assets/BodyMold.png)
 Body Mold
 
-![](CAD_Design/assets/LegMold.png)
+![](/assets/LegMold.png)
 Leg Mold
