@@ -1,8 +1,3 @@
----
-title: 'Soft Quad Readme'
-disqus: hackmd
----
-
 Soft Quad
 ===
 ## Table of Contents
