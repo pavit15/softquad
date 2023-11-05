@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L293D
+D L293D, Motor Driver, 4.5  36 V, 16-Pin Power PDIP
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000059.pdf
+$ENDCMP
+#
+#End Doc Library
